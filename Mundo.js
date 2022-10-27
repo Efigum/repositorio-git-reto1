@@ -1,1 +1,1 @@
-console.log("Hola, soy el archivo mundo.js del reto 1")
+console.log("Hola, soy el archivo Mundo.js")

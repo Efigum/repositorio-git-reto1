@@ -1,1 +1,2 @@
-console.log("Hola, soy el archivo hola.js del reto 1")
+console.log("Hola, soy el archivo Hola.js")
+console.log("Soy una modificación del archivo original")
